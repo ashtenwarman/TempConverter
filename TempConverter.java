@@ -2,10 +2,6 @@ package exercises;
 
 import java.util.Scanner;
 
-/**
- * @author add Kelvin?
- *
- */
 public class TempConverter {
 
 	public static void main(String[] args) {
